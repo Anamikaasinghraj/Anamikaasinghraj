@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Frontend development
 - 🌱 I’m currently learning DSA
-- 📫 How to reach me: anamikasinghrajraj
+- 📫 How to reach me: anamikasinghrajraj@gmail.com
 - ⚡ learner
 -->
 
